@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mouthAI
+  - Creature
+  - mouthPlayer
+  - AI
+  - PlusButton
+  - Boundary
+  - Enemy
+  - Coral
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - creatures
+  - coral
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Coral
+    uniqueID: 641309035
+    locked: 0
+  - name: Creature
+    uniqueID: 2258622443
+    locked: 0
+  - name: UI
+    uniqueID: 3634387715
+    locked: 0
